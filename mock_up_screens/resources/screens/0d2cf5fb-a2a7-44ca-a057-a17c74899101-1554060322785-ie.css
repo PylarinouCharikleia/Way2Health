@@ -1,0 +1,38 @@
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-Login_Box {
+  -ms-transform: rotate(0.0deg);
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-Title {
+  -ms-transform: rotate(0.0deg);
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-patient {
+  -ms-transform: rotate(0.0deg);
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-doctor {
+  -ms-transform: rotate(0.0deg);
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-Treset {
+  -ms-transform: rotate(0.0deg);
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-Button_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-Button_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-0d2cf5fb-a2a7-44ca-a057-a17c74899101 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

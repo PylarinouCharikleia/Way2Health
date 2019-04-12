@@ -1,0 +1,43 @@
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-selectedDay {
+  -ms-transform: rotate(0.0deg);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-up {
+  -ms-transform: rotate(0.0deg);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-Cal {
+  border-collapse: separate;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=94);
+  filter: alpha(opacity=94);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-Days {
+  -ms-transform: rotate(0.0deg);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-down {
+  -ms-transform: rotate(0.0deg);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-march {
+  -ms-transform: rotate(0.0deg);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-Title {
+  -ms-transform: rotate(0.0deg);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-insert {
+  -ms-transform: rotate(0.0deg);
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-exit {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -1,0 +1,62 @@
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-selectedDay {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-up {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-Days {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-down {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-march {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-Title {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-insert {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 #s-exit {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-5a604c10-3118-4fb2-93f7-41d740a58663 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

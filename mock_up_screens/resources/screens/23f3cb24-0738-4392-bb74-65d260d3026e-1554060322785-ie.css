@@ -1,0 +1,44 @@
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-medicalreporticon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-workouticon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-foodicon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-medicneicon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-xicon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-selectText {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-workout {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-workout_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-workout_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e #s-workout_3 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-23f3cb24-0738-4392-bb74-65d260d3026e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -1,0 +1,34 @@
+#t-5080e751-d52b-45b2-adcd-c96c9cf19031 > #backgroundBox {
+  background-color: #FFFFFF;
+  background-image: none;
+  position: absolute;
+}
+#t-5080e751-d52b-45b2-adcd-c96c9cf19031 > #alignmentBox {
+  position: relative;
+  max-width: 360px;
+  max-height: 640px;
+  width: 100%;
+  height: 100%;
+}
+#t-5080e751-d52b-45b2-adcd-c96c9cf19031 #t-Sceen {
+  position: absolute;
+  width: 361px;
+  height: 640px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#t-5080e751-d52b-45b2-adcd-c96c9cf19031 #t-Sceen > img, #t-5080e751-d52b-45b2-adcd-c96c9cf19031 #t-Sceen > svg {
+  height: 640px;
+  width: 361px;
+  box-shadow: none;
+}
+#t-5080e751-d52b-45b2-adcd-c96c9cf19031 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("../fonts/Roboto-Medium.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Medium.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Ebrima";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Ebrima-Regular.ttf")  format("truetype"),
+       url("../fonts/Ebrima-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}

@@ -1,0 +1,94 @@
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 > #backgroundBox {
+  background-color: #FFFFFF;
+  background-image: none;
+  position: absolute;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 > #alignmentBox {
+  position: relative;
+  max-width: 360px;
+  max-height: 640px;
+  width: 100%;
+  height: 100%;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-Sceen {
+  position: absolute;
+  width: 361px;
+  height: 640px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-Sceen > img, #t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-Sceen > svg {
+  height: 640px;
+  width: 361px;
+  box-shadow: none;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-VitalBox > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #B2C9E3;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  box-shadow: none;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-VitalBox {
+  position: absolute;
+  width: 360px;
+  height: 640px;
+  opacity: 0.65;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Arial',Arial;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-VitalBox > .clipping, #t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-VitalBox > .paddingLayer {
+  height: 640px;
+  width: 360px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-VitalBox .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-VitalBox span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 #t-VitalBox span#rtr-t-VitalBox_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#t-6772aa48-ec25-48f1-8ac6-38f7b0491f80 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
