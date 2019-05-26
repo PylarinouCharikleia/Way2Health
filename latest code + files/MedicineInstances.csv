@@ -1,8 +1,0 @@
-Name,Active Ingredient,Category,Max Dosage,Side Effects,ReactList
-lipitor,Atorvastasin,Statin,80,"Constipation,Fatigue,Headache",No
-nexium,Esomeprazole,Esomeprazole,40,"Headache,ReducedNutrientsAbsorption",Clopidogrel:Bleeding
-plavix,Clopidogrel,Antiplatelet,75,"Headache,AllergicReaction",Esomeprazole:Bleeding
-abilify,Aripiprazole,Aripiprazole,30,OrthostaticHypotension,No
-singulair,Montelukast,Montelukast,10,"DryMouth,Headache,Tiredness",No
-pirium,Pimozide,Antipsychotic,4,"DryMouth,Dizziness",Ketoconazole:Arrythmia
-sostatin,Ketoconazole,Antifungal,200,AllergicReaction,Pimozide:Arrythmia
